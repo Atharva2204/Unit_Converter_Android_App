@@ -11,4 +11,4 @@ Unit conversion App
 <BR><BR>
 
 ### My 2nd Android App
-Developed in March 2019
+Developed in March 2019 <img src="https://img.icons8.com/emoji/48/000000/star-struck.png"/> 
