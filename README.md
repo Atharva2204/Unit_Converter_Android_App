@@ -1,7 +1,7 @@
 # Unit Converter
 <img src="https://img.icons8.com/dusk/64/000000/org-unit.png"/>
 
-Unit conversion App
+Unit conversion Android App
 
 ## Features
 > - Pick a category of unit
